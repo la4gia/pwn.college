@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1185" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -2546,7 +2546,7 @@
             <mxRectangle width="27" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OPchCLaqPwxH3Rnyv1_R-373" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=6;" vertex="1" parent="OPchCLaqPwxH3Rnyv1_R-358">
+        <mxCell id="OPchCLaqPwxH3Rnyv1_R-373" value="u" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=6;" vertex="1" parent="OPchCLaqPwxH3Rnyv1_R-358">
           <mxGeometry x="366" width="24" height="23" as="geometry">
             <mxRectangle width="24" height="23" as="alternateBounds" />
           </mxGeometry>
@@ -2798,7 +2798,7 @@
             <mxRectangle width="26" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OPchCLaqPwxH3Rnyv1_R-425" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=6;" vertex="1" parent="OPchCLaqPwxH3Rnyv1_R-422">
+        <mxCell id="OPchCLaqPwxH3Rnyv1_R-425" value="n" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=6;" vertex="1" parent="OPchCLaqPwxH3Rnyv1_R-422">
           <mxGeometry x="53" width="24" height="23" as="geometry">
             <mxRectangle width="24" height="23" as="alternateBounds" />
           </mxGeometry>
@@ -2887,6 +2887,18 @@
           <mxGeometry x="485" width="25" height="23" as="geometry">
             <mxRectangle width="25" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OPchCLaqPwxH3Rnyv1_R-443" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;reverse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="396.64" y="2080" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OPchCLaqPwxH3Rnyv1_R-444" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;reverse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="406.64" y="2560" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OPchCLaqPwxH3Rnyv1_R-445" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;reverse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="366.64" y="3010" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OPchCLaqPwxH3Rnyv1_R-446" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;manipulation flow&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;reverse&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;reverse&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;bubble sort&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;swap 13 and 20&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;reverse&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;reverse&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;reverse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="3320" width="90" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
